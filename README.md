@@ -1,5 +1,5 @@
-Fluorescent Microscope Image Analysis
-
+**Fluorescent Microscope Image Analysis
+**
 This repository contains Python code for analyzing fluorescent microscope images to measure green fluorescence intensity, which can be used to assess neuroinflammation levels. This analysis can be performed using sample images and the code provided here, which is designed to run in Jupyter Notebook.
 
 Repository Contents
@@ -31,3 +31,5 @@ pandas
 scipy
 Example Output
 The code provides visual output for each image’s green fluorescence channel, group bar charts, and statistical test results to help interpret the data.
+
+Note: There are sample images included to test the code
